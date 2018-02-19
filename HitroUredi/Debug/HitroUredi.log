@@ -1,0 +1,5 @@
+﻿  HitroUredi.cpp
+d:\feri\1.letnik\2.semester\osnove algoritmov\hitrouredi\hitrouredi\hitrouredi.cpp(74): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\feri\1.letnik\2.semester\osnove algoritmov\hitrouredi\hitrouredi\hitrouredi.cpp(106): warning C4101: 'vrh': unreferenced local variable
+d:\feri\1.letnik\2.semester\osnove algoritmov\hitrouredi\hitrouredi\hitrouredi.cpp(106): warning C4101: 'dno': unreferenced local variable
+  HitroUredi.vcxproj -> D:\FERI\1.Letnik\2.Semester\Osnove algoritmov\HitroUredi\Debug\HitroUredi.exe
